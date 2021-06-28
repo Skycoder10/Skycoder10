@@ -1,5 +1,4 @@
-### Hello 
-##                I am Akash Mandal 👋
+### Hello I am Akash Mandal 👋
 -I am competitive programmer from India
 
 
