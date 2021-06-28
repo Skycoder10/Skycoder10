@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello I am Akash Mandal 👋
 
 <!--
 **Skycoder10/Skycoder10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
