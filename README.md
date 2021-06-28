@@ -2,8 +2,8 @@
 
 - 👨‍💻 I am competitive programmer from India
 
-- 🔭 I’m currently working on a project
+- 🔭 I’m currently working on a full stack project
 - 🌱 I’m currently learning MERN.
 - 💬 Ask me about DSA
-- 📫 How to reach me 
+- 📫 How to reach me: akashmandalam49973@gmail.com
 
