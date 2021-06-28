@@ -1,6 +1,6 @@
 ### Hello I am Akash Mandal 👋
 
-- 👨‍💻 I am competitive programmer from India
+- 👨‍💻 I am a competitive programmer from India
 
 - 🔭 I’m currently working on a full stack project
 - 🌱 I’m currently learning MERN.
