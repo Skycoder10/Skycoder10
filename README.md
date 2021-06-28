@@ -1,11 +1,12 @@
 ### Hello 
 ## I am Akash Mandal 👋
+### I am competitive programmer
 
 <!--
 **Skycoder10/Skycoder10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-## iam a boos
+
 - 🔭 I’m currently working on ...jdj
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
