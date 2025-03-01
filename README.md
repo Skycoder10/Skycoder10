@@ -1,7 +1,6 @@
 ### Hello I am Akash Mandal 👋
 
-- 👨‍💻 I am a SDE fresher from India who loves porblem solving (Competitive programming , problem on scales which effects the end customer) a lot.
-- 🔭 I’m have worked on Java,Spring Boot in production level also worked on AWS, AppSmith , Kafka , SQL, Unit Testing.
+- 👨‍💻 A problem-solving enthusiast, my specialities include full stack development with Java, Spring Boot and Angular. I have experience working with big data technologies like Apache Kafka, Storm, and HBase, as well as cloud technologies like Amazon Web Services (AWS). So far I have C++, SQL, HTML, CSS, TypeScript and React under my belt with a knowledge of Python and Flask. I have a knack for solving competitive coding challenges along with real-world problems.
 - 💬 Ask me about DSA
 - 📫 How to reach me: akashmandalam49973@gmail.com
 
